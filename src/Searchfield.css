@@ -1,0 +1,43 @@
+*
+{
+    text-align: center;
+    color: white;
+}
+
+input
+{
+    width: 300px;
+    padding: 5px;
+    background-image:("url/src/wp2763763.gif");
+    color:black;
+    font-size: 25px;
+    font-family: sans-serif;
+   
+}
+
+input:focus
+{
+    border: 2px solid #555;
+}
+
+#submit
+{
+    width: 65px;
+    height: 35px;
+    margin: 5px;
+    background-image: url("/src/wp2763763.gif")
+    
+}
+
+#random
+{
+    width: 65px;
+    height: 35px;
+    margin: 5px;
+    background-image: url("/src/wp2763763.gif")
+}
+
+#submit:hover, #random:hover
+{
+    color:darkturquoise
+}
